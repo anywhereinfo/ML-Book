@@ -8,7 +8,7 @@
  $$
 
 ## Applications
-- [[Vector Norms (Length)|Vector Norms]]
+- [[Vector Norms (Length)]]
 - [[Orthogonality]]
 - [[Angle Between Vectors]]
 - [[Projection]]
