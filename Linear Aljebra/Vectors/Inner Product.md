@@ -26,19 +26,13 @@ tags:
 
 ## **Properties**
 > **1️⃣ Linearity:**  
-> $$
- \langle au + bv, w \rangle = a \langle u, w \rangle + b \langle v, w \rangle
- $$
+> $$\langle au + bv, w \rangle = a \langle u, w \rangle + b \langle v, w \rangle$$
 >
 > **2️⃣ Symmetry:**  
-> $$
- \langle u, v \rangle = \langle v, u \rangle
- $$
+> $$\langle u, v \rangle = \langle v, u \rangle$$
 >
 > **3️⃣ Positive Definiteness:**  
-> $$
- \langle v, v \rangle \geq 0, \quad \text{and } \langle v, v \rangle = 0 \text{ iff } v = 0
- $$
+> $$\langle v, v \rangle \geq 0, \quad \text{and } \langle v, v \rangle = 0 \text{ iff } v = 0$$
 
 ---
 ## 📌 Generalized Inner Product with a Matrix
