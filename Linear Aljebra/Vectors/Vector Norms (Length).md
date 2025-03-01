@@ -5,7 +5,7 @@
 
 ## **Properties of a Norm**
 1. **Non-negativity**
-	 $$ \text{The norm is always non-negative.} $$
+	 $$\text{The norm is always non-negative.}$$
 	 $$\| u \| \geq 0 $$   $$\text{It is zero only for the zero vector:} \quad \| u \| = 0 \iff u = 0$$
 	 
 2. **Homogeneity**
