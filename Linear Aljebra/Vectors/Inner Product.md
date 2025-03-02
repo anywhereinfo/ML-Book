@@ -21,6 +21,9 @@ tags:
 - [[Projection]]
 - [[Cosine Similarity]]
 - [[Gram-Schmidt Process]]
+- [[Linearity]]
+- [[Bilinearity]]
+- 
 
 ---
 
