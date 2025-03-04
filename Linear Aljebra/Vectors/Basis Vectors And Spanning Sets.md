@@ -19,12 +19,10 @@ $$
 ### Example:
 In $\mathbb{R}^2$ , the set 
 
-$$
-S = \left\{
+$$S = \left\{
 \begin{bmatrix} 1 \\ 0 \end{bmatrix}, 
 \begin{bmatrix} 0 \\ 1 \end{bmatrix}
-\right\}
-$$
+\right\}$$
 
 spans $\mathbb{R}^2$  because any vector $v = \begin{bmatrix} x \\ y \end{bmatrix}$  can be written as:
 
