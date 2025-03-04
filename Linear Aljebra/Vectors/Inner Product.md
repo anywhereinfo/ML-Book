@@ -27,7 +27,7 @@ tags:
 
 ---
 
-## **Properties**
+## **Properties when using Vectors**
 > **1️⃣ Linearity:**  
 > $$\langle au + bv, w \rangle = a \langle u, w \rangle + b \langle v, w \rangle$$
 >
@@ -39,29 +39,24 @@ tags:
 
 ---
 ## 📌 Generalized Inner Product with a Matrix
-> When using a **positive definite matrix** \( A \), we define a **generalized inner product**:
+> When using a **[[Positive Definite Matrix]]** \( A \), we define a **generalized inner product**:
 > 
 > $$
  \langle u, v \rangle_A = u^T A v
  $$
 > 
 > Where:
-> - \( A \) is a **symmetric ($A = A^T$ ) , positive definite matrix ($x^TAx >0$)**.
-> - This inner product is commonly used in **quadratic forms
-> - Mahalanobis distance, and machine learning kernels**.
+> - \( A \) is a **symmetric ($A = A^T$ ) and [[../../Positive Definite Matrix|Positive Definite Matrix]]
+> - Mahalanobis distance, and machine learning kernels.
 
 ## 📌 Special Cases
 > **1️⃣ Standard Inner Product** → When \( A = I \) (Identity matrix), we recover the **dot product**:
 > 
-> $$
-> \langle u, v \rangle_I = u^T I v = u^T v
-> $$
+> $$\langle u, v \rangle_I = u^T I v = u^T v$$
 > 
 > **2️⃣ Weighted Inner Product** → If \( A \) scales different components differently:
 > 
-> $$
-> \langle u, v \rangle_A = u^T A v
-> $$
+> $$\langle u, v \rangle_A = u^T A v$$
 > 
 > Used in **quadratic forms and optimization**.
 
